@@ -104,8 +104,29 @@
       "reference": "RIC VI Siscia 146",
       "provenance": "Ex. JAZ Numismatics Auction 110, Lot 19",
       "code": "A005"
+    },
+      "maxentius1": {
+      "emperor": "Maxentius",
+      "file": "maxentius1",
+      "material": "AE",
+      "denomination": "Follis",
+      "year": "310 A.D.",
+      "mint": "Rome",
+      "officina": null,
+      "price": "$35",
+      "weight":"?g"/
+      "diameter": "?mm",
+      "axis": "6H",
+      "obverse_legend": "MAXENTIVS P F AVG",
+      "reverse_legend": "VICTORIA - AETERNA AVG N",
+      "exergue": "-/-//R[??]",      
+      "obverse_desc": "Head of Maxentius, laureate, left",
+      "reverse_desc": "Victory, winged, draped, standing right, inscribing VOT/X on shield supported by pillar; to left, seated captive, turning head",
+      "reference": "RIC VI Siscia 146",
+      "provenance": "Ex. CNG Lot",
+      "code": "A006"
     }
- },
+},
   "roman_provincial": {
   },
   "byzantine": {
