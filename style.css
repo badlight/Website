@@ -107,6 +107,18 @@ em {
   text-align: right;
 }
 
+.cost {
+  display: block;
+  font-style: bold;
+  color: white;
+  font-size: 20x;
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  width: 100px; 
+  text-align: right;
+}
+
 .caption-title {
   display: block;
   font-style: bold;
