@@ -83,8 +83,29 @@
       "reference": "RIC V Probus 489",
       "provenance": "Ex. eBay",
       "code": "A004"
+    },
+     "maximian1": {
+      "emperor": "Maximian",
+      "file": "maximian1",
+      "material": "AE",
+      "denomination": "Quarter-Follis",
+      "year": "305 A.D.",
+      "mint": "Siscia",
+      "officina": null,
+      "price": "$25",
+      "weight": "2.10",
+      "diameter": "20.0mm",
+      "axis": "6H",
+      "obverse_legend": "IMP C MAXIMIANVS P F AVG",
+      "reverse_legend": "GENIO POP-VLI ROMANI",
+      "exergue": "-/-//SIS",      
+      "obverse_desc": "laureate hd., right",
+      "reverse_desc": "Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, holding patera in right hand and cornucopiae in left hand",
+      "reference": "RIC VI Siscia 146",
+      "provenance": "Ex. JAZ Numismatics Auction 110, Lot 19",
+      "code": "A005"
     }
-  },
+ },
   "roman_provincial": {
   },
   "byzantine": {
