@@ -593,5 +593,48 @@
   "roman_provincial": {
   },
   "byzantine": {
+    "anonymous1": {
+      "emperor": "John I Tzimiskes",
+      "file": "anonymous11",
+      "material": "AE",
+      "denomination": "Follis",
+      "year": "969 - 976 A.D.",
+      "mint": "Constantinople",
+      "officina": null,
+      "emission": null,
+      "weight": "6.71",
+      "axis": "6H",
+      "diameter": "25.0mm",
+      "obverse_legend": "+?MMANOVH?/IC - XC",
+      "reverse_legend": "+I?S?S/XRIST?S/?ASIL??/?ASIL?",
+      "exergue": "Class A1",      
+      "obverse_desc": "Facing bust of Christ Pantokrator",
+      "reverse_desc": "Legend in four lines",
+      "reference": "SBCV 1793",
+      "provenance": "Ex. Savoca eBay 2018",
+      "sub_collection": ["Anonymous Folles", "Overstrikes"],
+      "code": "A030"
+    },
+    "constantinevii1": {
+      "emperor": "Constantine VII Porphyrogenitus",
+      "file": "constantinevii1",
+      "material": "AE",
+      "denomination": "Follis",
+      "year": "945 - 950 A.D.",
+      "mint": "Constantinople",
+      "officina": null,
+      "emission": null,
+      "weight": "7.02g",
+      "diameter": "25.0mm",
+      "axis": "6H",
+      "obverse_legend": "+CO?ST' bASIL' ROm",
+      "reverse_legend": "+CO?ST/??T?O bA/SIL?VS R/Om?O?",
+      "exergue": "-",      
+      "obverse_desc": "Crowned facing bust of Constantine VII with short beard facing, wearing vertical loros and holding akakaia and globus cruciger",
+      "reverse_desc": "Legend in 4 lines",
+      "reference": "SBCV 1761",
+      "provenance": "Ex. Savoca eBay 2018",
+      "code": "A029"
+    },
   }
 }
