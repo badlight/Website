@@ -168,9 +168,9 @@
       "provenance": "Ex. Ancient & Medieval Coins Canada Auction 1, Lot 153, Ex. James Pickering Romano-Britannic Collection, Ex. York Coins",
       "code": "A025"
     },          
-      "maxentius1": {
-      "emperor": "maxentius1",
-      "file": "constantinei1",
+    "maxentius1": {
+      "emperor": "Maxentius",
+      "file": "maxentius1",
       "material": "AE",
       "denomination": "Follis",
       "year": "310 A.D.",
